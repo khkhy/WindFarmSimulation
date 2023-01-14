@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <basebase-config includeSubdomains="true">10.0.2.2</basebase-config>
+        <basebase-config includeSubdomains="true">localhost</basebase-config>
+    </base-config>
+
+</network-security-config>

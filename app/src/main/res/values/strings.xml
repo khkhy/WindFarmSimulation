@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WindfarmsimulationV2</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2FsbGUyIiwiYSI6ImNrdnU4eTB6bjNrcmsydXRrcm1jdHlwZHgifQ.1lvEK6TgiKOywY3TjxiAcQ</string>
+</resources>
